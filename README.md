@@ -8,6 +8,11 @@ process (metacode).
 visualization).
 - Documentation is understandable to a non-technical audience.
 
+## Project Rationale 
+- Environmental resources - housing strain - amenities
+- Housing policymakers in XX state
+- Influences housing policy and how we use environmental resources in our urban areas
+
 ## Project question:
 - What is my capstone about?
 - Who would it be interesting to?
