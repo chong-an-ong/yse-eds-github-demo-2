@@ -4,6 +4,7 @@ Demo for YSE EDS Certificate Program Capstone Submission
 ## From Capstone Rubric (on Canvas Homepage)
 - Main README explains project question(s), rationale, audience, data sources, and
 process (metacode).
+- Hello World!
 - Sub-folder READMEs or inline docs describe workflows (cleaning, analysis,
 visualization).
 - Documentation is understandable to a non-technical audience.
